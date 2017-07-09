@@ -1,0 +1,1 @@
+# Dockerfile for mecab+golang
